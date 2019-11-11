@@ -1,0 +1,1 @@
+C:\Users\DevOtter\Documents\Visual Studio 2019\Tutorial Box\Tutorials\trunk\Add FontAwesome to UWP\Add FontAwesome to UWP\Add FontAwesome to UWP.csproj;x86
